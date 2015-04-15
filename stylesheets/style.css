@@ -29,7 +29,7 @@ header nav {
 main {
   border-style: dotted;
   border-width: 5px;
-  background: white;
+  background: blue;
   overflow: auto;
 }
 
